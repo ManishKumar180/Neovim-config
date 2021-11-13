@@ -80,6 +80,8 @@ v12.16.
 
   
   <br></p>
+  
+  <p> Install neo vim using <code> sudo apt-get install neovim</code></p>
 
 
 
