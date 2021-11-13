@@ -39,6 +39,15 @@ Select the distro of Linux to install on your device.
 Repeat the password and press Enter to confirm.
 After you complete the steps, you can start using the distro as any other flavor of Linux (without the graphical user interface, of course).
 
+Important steps -> 
+Restart The Terminal 
+Update the system using -> sudo apt-get update 
+Upgrade the system Using command -> sudo apt-get upgrade
+Enter your Password ✔️
+Install git using -> sudo apt-get install git
+
+
+
 
 
   <h1> Guide: </h1>
