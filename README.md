@@ -42,7 +42,7 @@ After you complete the steps, you can start using the distro as any other flavor
 Important steps -> 
 <br>
 Restart The Terminal 
-<br>
+
 
 <br>
 Update the system using -> sudo apt-get update 
@@ -51,7 +51,7 @@ Upgrade the system Using command -> sudo apt-get upgrade
 <br>
 Enter your Password ✔️
 <br>
-Install git using -> sudo apt-get install git
+Install git using -> <code>sudo apt-get install git</code>
 
 
 
