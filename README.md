@@ -206,6 +206,8 @@ v12.16.
 
 <br>
  
+ so that's it You can also install other plugins as well and enhance your vim functionality 😄
+ 
  
  
 <br>
