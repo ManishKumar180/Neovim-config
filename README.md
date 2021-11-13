@@ -169,6 +169,14 @@ Add one more line <br>
  <br>
  ![2021-11-13_23-07](https://user-images.githubusercontent.com/86479387/141653675-2cc8e038-0adb-492d-94a3-6c278e2c46a1.png)
 <br>
+ 
+ you might get some errors while opening the neovim 
+ simply presss Enter or quit the neovim and remove the following Auto completiong Line
+  from the init.vim and save <br>
+
+ ![2021-11-13_23-17](https://user-images.githubusercontent.com/86479387/141653861-7e01f87d-7032-4cc2-95c2-9736c4a9fc0e.png)
+<br>
+ 
  <br>
 
  <br>
