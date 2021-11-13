@@ -5,11 +5,11 @@ It can do anything from editing small files to programming software.
 <br> <br>
 It can increase your Productivity 😄
 
-<br>
+
 ![Meme](https://user-images.githubusercontent.com/86479387/141652263-fe320977-a9fd-4c57-88bb-e1757d08c083.jpeg)
 
 
-<br>
+
 
 
 All steps you need to install Neovim on your Linux and Windows Operating Systems
