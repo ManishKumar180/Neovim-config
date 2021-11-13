@@ -5,10 +5,11 @@ It can do anything from editing small files to programming software.
 <br> <br>
 It can increase your Productivity 😄
 
+<br>
 <div>
 <a href="https://imgflip.com/i/5u1uh9"><img src="https://i.imgflip.com/5u1uh9.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 
-
+<br>
 
 
 All steps you need to install Neovim on your Linux and Windows Operating Systems
