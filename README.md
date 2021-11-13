@@ -160,9 +160,15 @@ v12.16.
  
  or simply copy these from my init.vim file 😄😄<br>
  
-Add one more line <br>
+ 
+ 
+
  
  ![2021-11-13_23-04](https://user-images.githubusercontent.com/86479387/141653470-991cee54-5a99-4c01-8e5b-6f33626e6437.png)
+ 
+ <br> 
+ ![2021-11-13_23-37](https://user-images.githubusercontent.com/86479387/141654541-04966145-0b03-42ff-819c-3f4e9284b5cc.png)
+<br>
  
  To Install all Plugins 
  copy this 
