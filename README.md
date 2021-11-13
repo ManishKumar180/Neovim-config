@@ -95,6 +95,10 @@ v12.16.
  -this will be file for our configs 
  <br>
  
+ <h4> Must watch If you are new to vim </h4>
+ <br>
+ https://youtu.be/XguBRi4TDNc
+ 
   <br> 
 </p>
 
