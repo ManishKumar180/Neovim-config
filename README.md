@@ -6,8 +6,7 @@ It can do anything from editing small files to programming software.
 It can increase your Productivity 😄
 
 
-![Meme](https://user-images.githubusercontent.com/86479387/141652263-fe320977-a9fd-4c57-88bb-e1757d08c083.jpeg)
-
+https://imgflip.com/i/5u1uh9
 
 
 
