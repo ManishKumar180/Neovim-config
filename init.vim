@@ -21,9 +21,9 @@ Plug 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
 Plug 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
 Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
-Plug 'ervandew/supertab'
+Plug 'ervandew/supertab' "Auto Complete with TabPlugin"
 Plug 'scrooloose/syntastic'
-Plug 'rstacruz/vim-closer'
+Plug 'rstacruz/vim-closer' "Plugins for Brackets"
 
 
 set encoding=UTF-8
