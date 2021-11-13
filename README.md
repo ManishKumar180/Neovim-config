@@ -125,7 +125,13 @@ v12.16.
  
  https://github.com/junegunn/vim-plug 
  
- choose this 
+ choose this ⬇️<br>
+ ![2021-11-13_22-40](https://user-images.githubusercontent.com/86479387/141652714-3a2b7816-e447-473a-9d43-dbc6e5164af5.png)
+<br>
+ command - <code> sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'</code>
+ <br>
+
  
  <br>
  
