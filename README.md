@@ -45,15 +45,15 @@ Restart The Terminal
 
 
 <br>
-Update the system using -> sudo apt-get update 
+Update the system using -> <code>sudo apt-get update</code> 
 <br>
-Upgrade the system Using command -> sudo apt-get upgrade
+Upgrade the system Using command -> <code>sudo apt-get upgrade</code>
 <br>
 Enter your Password ✔️
 <br>
 Install git using -> <code>sudo apt-get install git</code>
 
-
+<p style="color:green"> we need nodejs , npm in order to install required packages</p>
 
 
 
