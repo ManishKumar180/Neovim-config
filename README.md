@@ -80,6 +80,13 @@ v12.16.
 
   
   <br></p>
+   <h4> Must watch If you are new to vim </h4>
+ <br>
+ https://youtu.be/XguBRi4TDNc
+ <br>
+ https://www.geeksforgeeks.org/getting-started-with-vim-editor-in-linux/
+ 
+  <br> 
   
   <p> Install neo vim using <code> sudo apt-get install neovim</code>
  <br> change the File path to home  <code > cd -- </code>
@@ -95,11 +102,7 @@ v12.16.
  -this will be file for our configs 
  <br>
  
- <h4> Must watch If you are new to vim </h4>
- <br>
- https://youtu.be/XguBRi4TDNc
- 
-  <br> 
+
 </p>
 
 
