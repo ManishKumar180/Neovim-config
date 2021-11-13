@@ -108,6 +108,10 @@ v12.16.
  
  <br>
  
+ <br> 
+ You can also clone my config file
+ 
+ 
 
 </p>
 
@@ -117,6 +121,8 @@ v12.16.
 https://www.computerhope.com/issues/ch001879.htm
 
 https://youtu.be/X-DHaQLrBi8 
+
+
 
 For Linux 
 
