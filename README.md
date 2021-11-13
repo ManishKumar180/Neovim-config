@@ -6,7 +6,7 @@ It can do anything from editing small files to programming software.
 It can increase your Productivity 😄
 
 <div>
-<a href="https://imgflip.com/i/5u1uh9"><img src="https://i.imgflip.com/5u1uh9.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<a href="https://imgflip.com/i/5u1uh9"><img src="https://i.imgflip.com/5u1uh9.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 
 
 
