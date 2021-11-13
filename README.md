@@ -36,6 +36,11 @@ Select the distro of Linux to install on your device.
 ![ubuntu](https://user-images.githubusercontent.com/86479387/141649882-119d7de8-a884-43e1-a308-998adba28cf0.png)
 
 
+Repeat the password and press Enter to confirm.
+After you complete the steps, you can start using the distro as any other flavor of Linux (without the graphical user interface, of course).
+
+
+
   <h1> Guide: </h1>
 https://www.computerhope.com/issues/ch001879.htm
 
