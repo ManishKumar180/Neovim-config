@@ -53,7 +53,33 @@ Enter your Password ✔️
 <br>
 Install git using -> <code>sudo apt-get install git</code>
 
-<p > <br>we need nodejs  npm in order to install required packages <br></p>
+<p > <br>we need nodejs  npm in order to install required packages 
+ <br> 
+  Enable the NodeSource repository by running the following curl command as a user with sudo privileges :
+<br>
+  <code>curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -</code>
+<br>
+The command will add the NodeSource signing key to your system, create an apt sources repository file, install all necessary packages and refresh the apt cache.
+
+If you need to install another version, for example 14.x, just change setup_12.x with setup_14.x
+
+Once the NodeSource repository is enabled, install Node.js and npm by typing:
+
+  <code>sudo apt install nodejs</code>
+<br>
+The nodejs package contains both the node and npm binaries.
+
+Verify that the Node.js and npm were successfully installed by printing their versions:
+
+  <code>node --version</code> or <code> node -v</code>
+
+v12.16.
+  <code>npm --version</code>
+Copy
+6.14.4Copy
+
+  
+  <br></p>
 
 
 
