@@ -120,6 +120,17 @@ v12.16.
  !!Watch the above given Tutorial for vim before editing the vim config <br>
  that will save your lot of time 😄
  
+ <div> <p> You need a plugin Manager to Install plugins on neovim/vim
+ here we are going to use  vim-plug 
+ 
+ https://github.com/junegunn/vim-plug 
+ 
+ choose this 
+ 
+ <br>
+ 
+ 
+ 
  <br>
  
  <br> 
