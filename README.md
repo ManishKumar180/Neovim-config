@@ -38,10 +38,12 @@ Select the distro of Linux to install on your device.
 
 Repeat the password and press Enter to confirm.
 After you complete the steps, you can start using the distro as any other flavor of Linux (without the graphical user interface, of course).
-
+<br>
 Important steps -> 
 <br>
 Restart The Terminal 
+<br>
+
 <br>
 Update the system using -> sudo apt-get update 
 <br>
