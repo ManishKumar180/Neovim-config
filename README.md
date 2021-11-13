@@ -28,11 +28,13 @@ Select the distro of Linux to install on your device.
 
 ![wslStore](https://user-images.githubusercontent.com/86479387/141649593-279ffe94-48ad-48ad-80e6-9af549d326e5.png)
 
+-Click the Launch button.
+-Create a username for the Linux distro and press Enter.
+-Specify a password for the distro and press Enter.
 
-<p align="center> 
-<img src="/home/notacoder97/Pictures" width="350" title="wsl-image">
 
-</p>
+![ubuntu](https://user-images.githubusercontent.com/86479387/141649882-119d7de8-a884-43e1-a308-998adba28cf0.png)
+
 
   <h1> Guide: </h1>
 https://www.computerhope.com/issues/ch001879.htm
