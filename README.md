@@ -151,7 +151,14 @@ v12.16.
  <br> 
  ![2021-11-13_22-54](https://user-images.githubusercontent.com/86479387/141653217-66a327ba-28ff-4af2-becc-53b68851c6c5.png)
  
- and save the file 
+ and save the file <br>
+ 
+ Installing vim-airline
+ add the below text in init.vim
+ <br>
+ ![2021-11-13_23-00](https://user-images.githubusercontent.com/86479387/141653378-c9e95b20-90b0-4c74-869d-8287e4462596.png)
+
+ <br>
 
  <br>
  
