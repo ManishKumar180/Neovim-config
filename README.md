@@ -90,6 +90,10 @@ v12.16.
  Make a directory for our neovim <br>
  <code>mkdir nvim</code> <br>
  <code> cd nvim/</code>
+ <br>
+ <code> nvim init.vim</code>
+ -this will be file for our configs 
+ <br>
  
   <br> 
 </p>
