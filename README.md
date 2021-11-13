@@ -175,6 +175,27 @@ Add one more line <br>
   from the init.vim and save <br>
 
  ![2021-11-13_23-17](https://user-images.githubusercontent.com/86479387/141653861-7e01f87d-7032-4cc2-95c2-9736c4a9fc0e.png)
+ and restart the nvim to see the changes 
+ <br>
+ Install nerd fonts 
+ https://www.nerdfonts.com/font-downloads <br>
+ Dowload any zip and extract the fonts and install it 
+ <br>
+ 
+ To change fonts on windows ->
+ 
+ <br>
+ 
+ ![2021-11-13_23-24](https://user-images.githubusercontent.com/86479387/141654087-aa7cbfc8-92ef-4094-a51f-752639052ebb.png)
+ 
+<br> 
+ ![2021-11-13_23-25](https://user-images.githubusercontent.com/86479387/141654094-9f48fa71-ebf5-4ccf-a04c-92a42a1c791e.png)
+ <br>
+
+<br>
+ 
+ 
+ 
 <br>
  
  <br>
