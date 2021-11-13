@@ -34,7 +34,7 @@ Select the distro of Linux to install on your device.
 
 </p>
 
-
+  <h1> Guide: </h1>
 https://www.computerhope.com/issues/ch001879.htm
 
 https://youtu.be/X-DHaQLrBi8 
