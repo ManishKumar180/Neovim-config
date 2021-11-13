@@ -53,7 +53,7 @@ Enter your Password ✔️
 <br>
 Install git using -> <code>sudo apt-get install git</code>
 
-<p style="color:green"> we need nodejs , npm in order to install required packages</p>
+<p > <br>we need nodejs  npm in order to install required packages <br></p>
 
 
 
