@@ -81,7 +81,18 @@ v12.16.
   
   <br></p>
   
-  <p> Install neo vim using <code> sudo apt-get install neovim</code></p>
+  <p> Install neo vim using <code> sudo apt-get install neovim</code>
+ <br> change the File path to home  <code > cd -- </code>
+ <br> List out the hidden files using <code> ls -la </code>
+ See if there is any .config  <br>if yes  then use command <code> cd .config/ </code></br>  <br>if not  
+ then create  one <code> mkdir .config</code> <br>
+ <code> cd .config </code> <br>
+ Make a directory for our neovim <br>
+ <code>mkdir nvim</code> <br>
+ <code> cd nvim/</code>
+ 
+  <br> 
+</p>
 
 
 
