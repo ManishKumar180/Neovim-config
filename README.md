@@ -130,6 +130,7 @@ v12.16.
 <br>
  command - <code> sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'</code>
+ pase this command on your terminal 
  <br>
 
  
