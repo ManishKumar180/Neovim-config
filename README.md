@@ -40,10 +40,15 @@ Repeat the password and press Enter to confirm.
 After you complete the steps, you can start using the distro as any other flavor of Linux (without the graphical user interface, of course).
 
 Important steps -> 
+<br>
 Restart The Terminal 
+<br>
 Update the system using -> sudo apt-get update 
+<br>
 Upgrade the system Using command -> sudo apt-get upgrade
+<br>
 Enter your Password ✔️
+<br>
 Install git using -> sudo apt-get install git
 
 
