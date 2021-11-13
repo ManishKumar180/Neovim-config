@@ -1,5 +1,8 @@
 
-Vim is a text editor that's more powerful than notepad. It can do anything from editing small files to programming software. It's been optimized for speed and efficiency which makes it great for developers. You can do many things with Vim. <br>
+Vim is a text editor that's more powerful than notepad. 
+<br>
+It can do anything from editing small files to programming software. 
+It's been optimized for speed and efficiency which makes it great for developers. You can do many things with Vim. <br>
 It can increase your Productivity 😄
 
 All steps you need to install Neovim on your Linux and Windows Operating Systems
