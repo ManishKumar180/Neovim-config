@@ -135,6 +135,11 @@ v12.16.
  <br>
  pase this command on your terminal 
  <br>
+ 
+ Example -> 
+<br> 
+ ![2021-11-13_22-45](https://user-images.githubusercontent.com/86479387/141652887-e2463098-5af4-4927-81eb-65c32796dfa9.png)
+<br>
 
  
  <br>
