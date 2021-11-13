@@ -18,3 +18,4 @@ https://www.computerhope.com/issues/ch001879.htm
 https://youtu.be/X-DHaQLrBi8 
 
 For Linux 
+# Neovim-config
