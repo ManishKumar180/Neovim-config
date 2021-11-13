@@ -157,6 +157,8 @@ v12.16.
  add the below text in init.vim
  <br>
  ![2021-11-13_23-00](https://user-images.githubusercontent.com/86479387/141653378-c9e95b20-90b0-4c74-869d-8287e4462596.png)
+ 
+ or simply copy these from my init.vim file 😄😄
 
  <br>
 
