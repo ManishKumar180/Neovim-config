@@ -163,6 +163,12 @@ v12.16.
 Add one more line <br>
  
  ![2021-11-13_23-04](https://user-images.githubusercontent.com/86479387/141653470-991cee54-5a99-4c01-8e5b-6f33626e6437.png)
+ 
+ To Install all Plugins 
+ copy this 
+ <br>
+ ![2021-11-13_23-07](https://user-images.githubusercontent.com/86479387/141653675-2cc8e038-0adb-492d-94a3-6c278e2c46a1.png)
+<br>
  <br>
 
  <br>
