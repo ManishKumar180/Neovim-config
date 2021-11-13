@@ -75,8 +75,8 @@ Verify that the Node.js and npm were successfully installed by printing their ve
 
 v12.16.
   <code>npm --version</code>
-Copy
-6.14.4Copy
+
+6.14.4
 
   
   <br></p>
