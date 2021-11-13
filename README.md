@@ -102,6 +102,10 @@ v12.16.
  <br>
  <code> nvim init.vim</code>
  -this will be file for our configs 
+ 
+ !!Watch the above given Tutorial for vim before editing the vim config <br>
+ that will save your lot of time 😄
+ 
  <br>
  
 
