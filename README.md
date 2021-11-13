@@ -147,6 +147,14 @@ v12.16.
  ![2021-11-13_22-45](https://user-images.githubusercontent.com/86479387/141652887-e2463098-5af4-4927-81eb-65c32796dfa9.png)
 <br>
 
+ copy the following text in your init.vim file 
+ <br> 
+ ![2021-11-13_22-54](https://user-images.githubusercontent.com/86479387/141653217-66a327ba-28ff-4af2-becc-53b68851c6c5.png)
+ 
+ and save the file 
+
+ <br>
+ 
  
  <br>
  
